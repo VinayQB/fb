@@ -1,0 +1,75 @@
+
+
+.whitefont{
+    color: white;
+}
+.blackfont{
+    color: black;
+}
+.grayfont{
+    color: #7f7f7f;
+}
+.bluefont{
+    color: #3b5998;
+    font-size:15px
+}
+.bgcolor{
+    background-color:#3b5998;
+}
+.bgcolorcol1{
+    background-color:#F8F8F8;
+}
+.mTop5{
+    margin-top:5px;
+}
+.mBottom5{
+    margin-bottom:5px;
+}
+.buttonStyle > span:hover{
+  color: #3b5998;
+  }
+ 
+ .iconStyle{
+  position:relative;
+  display:inline-block;
+   vertical-align:middle;
+   margin-left:10px;
+   font-size:20px;
+   
+  }
+ 
+  .mRight20{
+  position:relative;
+  display:inline-block;
+   vertical-align:middle;
+   margin-right:20px;
+   font-size:20px;}
+   .mLeft20{
+   position:relative;
+  display:inline-block;
+   vertical-align:middle;
+   margin-left:20px;
+   font-size:15px}
+   .mLeft15{
+   position:relative;
+  display:inline-block;
+   vertical-align:middle;
+   margin-left:15px;
+   font-size:15px}
+   .mLeft5{
+   position:relative;
+  display:inline-block;
+   vertical-align:middle;
+   margin-left:5px;
+   font-size:15px
+   }
+   .mLeft75{
+   position:relative;
+  display:inline-block;
+   vertical-align:middle;
+   margin-left:75px;
+   font-size:15px}
+.scrollable-menu {
+    height: auto;
+    overflow-x: hidden;
+}
