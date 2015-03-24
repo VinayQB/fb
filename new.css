@@ -2,9 +2,12 @@
 
 .whitefont{
     color: white;
+    
 }
 .blackfont{
     color: black;
+    font-size:13px;
+ 
 }
 .grayfont{
     color: #7f7f7f;
@@ -73,6 +76,11 @@
     height: auto;
     overflow-x: hidden;
 }
-#fb ul li{
-	list-style: none;
+.panel-body>ul>li{
+	list-style-type: none;
+	padding-left: 0px;
+}
+.online{
+	font-size:10px;
+	color:green;
 }
