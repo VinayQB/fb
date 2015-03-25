@@ -11,21 +11,22 @@
 }
 .grayfont{
     color: #7f7f7f;
+    font-size:12px;
 }
 .bluefont{
     color: #3b5998;
-    font-size:15px
+    font-size:12px
 }
-.bgcolor{
+.color{
     background-color:#3b5998;
 }
 .bgcolorcol1{
     background-color:#F8F8F8;
 }
-.mTop5{
+.mgTop{
     margin-top:5px;
 }
-.mBottom5{
+.mgBottom{
     margin-bottom:5px;
 }
 .buttonStyle > span:hover{
@@ -41,41 +42,38 @@
    
   }
  
-  .mRight20{
+  .Right20{
   position:relative;
   display:inline-block;
    vertical-align:middle;
    margin-right:20px;
    font-size:20px;}
-   .mLeft20{
+   .Left20{
    position:relative;
   display:inline-block;
    vertical-align:middle;
    margin-left:20px;
    font-size:15px}
-   .mLeft15{
+   .Left15{
    position:relative;
   display:inline-block;
    vertical-align:middle;
    margin-left:15px;
    font-size:15px}
-   .mLeft5{
+   .Left5{
    position:relative;
   display:inline-block;
    vertical-align:middle;
    margin-left:5px;
    font-size:15px
    }
-   .mLeft75{
+   .Left75{
    position:relative;
   display:inline-block;
    vertical-align:middle;
    margin-left:75px;
    font-size:15px}
-.scrollable-menu {
-    height: auto;
-    overflow-x: hidden;
-}
+   
 .panel-body>ul>li{
 	list-style-type: none;
 	padding-left: 0px;
@@ -83,4 +81,7 @@
 .online{
 	font-size:10px;
 	color:green;
+}
+#wid{
+	height:25px;
 }
