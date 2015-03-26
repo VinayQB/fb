@@ -20,9 +20,16 @@
 .color{
     background-color:#3b5998;
 }
-.bgcolorcol1{
-    background-color:#F8F8F8;
+.devider{
+	width:1px;
+	color:black;
+	
 }
+.online{
+	font-size:10px;
+	color:green;
+}
+
 .mgTop{
     margin-top:5px;
 }
@@ -30,7 +37,7 @@
     margin-bottom:5px;
 }
 .buttonStyle > span:hover{
-  color: #3b5998;
+  color:white;
   }
  
  .iconStyle{
@@ -41,7 +48,10 @@
    font-size:20px;
    
   }
- 
+ .panel-body>ul>li{
+	list-style-type: none;
+	padding-left: 0px;
+}
   .Right20{
   position:relative;
   display:inline-block;
@@ -74,14 +84,8 @@
    margin-left:75px;
    font-size:15px}
    
-.panel-body>ul>li{
-	list-style-type: none;
-	padding-left: 0px;
-}
-.online{
-	font-size:10px;
-	color:green;
-}
+
+
 #wid{
 	height:25px;
 }
